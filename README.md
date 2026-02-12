@@ -57,12 +57,6 @@ pip
 jupyter notebook
 ```
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/air-pollution-lstm-prediction.git
-cd air-pollution-lstm-prediction
 ```
 
 2. Install required packages:
